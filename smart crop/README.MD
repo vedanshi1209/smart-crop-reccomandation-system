@@ -1,6 +1,6 @@
-# 🌱 Smart Crop Recommendation System
+# Smart Crop Recommendation System
 
-## 📌 Project Description
+##  Project Description
 
 The **Smart Crop Recommendation System** is a Java-based console application that recommends a suitable crop based on soil and environmental conditions.
 
@@ -8,18 +8,16 @@ The system takes important agricultural parameters such as Nitrogen, Phosphorus,
 
 The crop with the highest suitability score is recommended to the user.
 
----
 
-## 👩‍🎓 Student Details
+##  Student Details
 
 - **Student Name:** Vedanshi Patidar
 - **Registration No.:** 25BAI10630
 - **Subject:** Programming in Java
 - **Department:** B.Tech (AI/ML)
 
----
 
-## 🎯 Objectives
+##  Objectives
 
 - To develop a simple crop recommendation system using Java.
 - To use soil and environmental parameters for crop selection.
@@ -27,9 +25,8 @@ The crop with the highest suitability score is recommended to the user.
 - To calculate a suitability score for different crops.
 - To handle invalid user inputs using exception handling.
 
----
 
-## 🚀 Features
+##  Features
 
 - Accepts soil nutrient values.
 - Accepts temperature and humidity.
@@ -41,9 +38,9 @@ The crop with the highest suitability score is recommended to the user.
 - Handles invalid input.
 - Provides a simple console-based interface.
 
----
 
-## 🌾 Crops Included
+
+##  Crops Included
 
 The current system contains predefined conditions for:
 
@@ -54,9 +51,8 @@ The current system contains predefined conditions for:
 5. Sugarcane
 6. Pulses
 
----
 
-## 📥 Input Parameters
+##  Input Parameters
 
 The user provides the following values:
 
@@ -70,9 +66,8 @@ The user provides the following values:
 | Rainfall | Rainfall level |
 | Soil pH | Acidity/alkalinity of soil |
 
----
 
-## 🧮 Suitability Score
+##  Suitability Score
 
 The system calculates the score using predefined ranges for every crop.
 
@@ -91,9 +86,9 @@ If the entered value falls within the suitable range of a crop, the correspondin
 
 The crop having the highest score is selected as the recommendation.
 
----
 
-## ⚙️ Working of the System
+
+##  Working of the System
 
 ```text
 User
